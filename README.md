@@ -59,7 +59,8 @@ Fill in the food name, category, expiry date, and optional notes at the top of t
 This project is free to use and modify.
 
 ## Author
-Your Name
+Ragini_Yadav
 
 ## Acknowledgements
+
 This project was created to help reduce food waste and improve inventory management. 
